@@ -1,5 +1,5 @@
 {
-    "name": "pleio/global_tags",
+    "name": "coldtrick/global_tags",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": "~1.0"
